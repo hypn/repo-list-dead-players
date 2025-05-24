@@ -1,5 +1,5 @@
 {
-    "name": "List Dead Players",
+    "name": "ListDeadPlayers",
     "description": "Lists how mnay players are dead.",
     "version_number": "1.0.0",
     "dependencies": [
