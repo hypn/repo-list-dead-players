@@ -1,0 +1,9 @@
+{
+    "name": "List Dead Players",
+    "description": "Lists how mnay players are dead.",
+    "version_number": "1.0.0",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ],
+    "website_url": "https://github.com/hypn/repo-list-dead-players"
+}
