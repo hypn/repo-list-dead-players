@@ -1,7 +1,7 @@
 {
     "name": "ListDeadPlayers",
-    "description": "Lists how mnay players are dead.",
-    "version_number": "1.0.0",
+    "description": "Lists names of dead players",
+    "version_number": "1.1.0",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100"
     ],
